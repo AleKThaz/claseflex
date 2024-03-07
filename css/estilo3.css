@@ -1,0 +1,20 @@
+.principal{
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+}
+.caja{
+    background-color: brown;
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+}
+
+.contenedor{
+    background-color: azure;
+}
+.caja2{
+    background-color: black;
+    margin: 7px;
+}
